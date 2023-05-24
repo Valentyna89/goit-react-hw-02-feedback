@@ -1,0 +1,21 @@
+.Feedback_Controls {
+    display: flex;
+}
+
+.Feedback_Btn {
+    font-size: 16px;
+    color: aliceblue;
+    margin-right: 5px;
+    border: none;
+    width: 100px;
+    height: 30px;
+    cursor: pointer;
+    border-radius: 2px;
+    background-color: lightseagreen;
+    box-shadow: 1px 1px 2px 1px gray;
+}
+
+.Feedback_Btn:hover {
+    color: black;
+    background-color: lightgreen;
+}
